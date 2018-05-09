@@ -1,0 +1,7 @@
+a = 28 ;
+b = 18 ;
+until a is equal to b do
+    if a < b then
+        swap a and b
+    else
+        a = a - b
